@@ -31,4 +31,4 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <hr>
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=hinhphan&show_icons=true&theme=react)
+<!-- ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=hinhphan&show_icons=true&theme=react) -->
