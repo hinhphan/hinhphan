@@ -1,6 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi!, I'm <a href="https://github.com/Defcon27">HinhPV</a>! <img src="https://static.wikia.nocookie.net/oxygennotincluded_gamepedia_en/images/0/01/ONI_Liam.png/revision/latest/scale-to-width-down/120?cb=20180209100006" width="80px"></h1>
 </h1>
 
+📫
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hinhphan/)](https://github.com/hinhphan/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phana2311@gmail.com)](mailto:phana2311@gmail.com)
 [![Skype](https://img.shields.io/badge/phana2311-%2300AFF0.svg?style=flat-square&for-the-badge&logo=Skype&logoColor=white)](https://www.skype.com/)
@@ -28,4 +29,7 @@
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<hr>
 
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=hinhphan&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinhphan&theme=react)
