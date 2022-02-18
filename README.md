@@ -32,4 +32,3 @@
 <hr>
 
 ![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=hinhphan&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinhphan&theme=react)
