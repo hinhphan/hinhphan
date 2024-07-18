@@ -10,7 +10,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hinh.phan.7140/)
 <hr>
 <h1>##About me: </h1>
-<img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" align="right" width="200"></img>
 <ul>
   <li>Name: Hinh Phan</li>
   <li>Hobbies: café, book, gaming, debug >.<,...and sleep</li>
